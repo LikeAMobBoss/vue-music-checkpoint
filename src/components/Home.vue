@@ -22,7 +22,18 @@ export default {
 
 
 <style>
-
+.my-tunes{
+  display: inline-block;
+  min-height: 500px;
+  min-width: 50%;
+  background: purple;
+}
+.itunes{
+  display: inline-block;
+  background: pink;
+  min-height: 500px;
+  min-width: 45%;
+}
 
 
 </style>
