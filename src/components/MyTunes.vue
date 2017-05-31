@@ -57,5 +57,5 @@ export default {
   min-height: 500px;
   min-width: 45%;
 }
-**/
+
 </style>
